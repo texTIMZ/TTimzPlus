@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#26c6da</color>
+    <color name="colorPrimaryDark">#0097a7</color>
+    <color name="colorAccent">#ff8a80</color>
+    <color name="colorPrimaryTrans150">#9626c6da</color>
+
+    <color name="logoColor1">#26c6da</color>
+    <color name="logoColor2">#00838f</color>
+    <color name="logoColor3">#d50000</color>
+
+    <color name="MaterialIndigo500">#3F51B5</color>
+    <color name="MaterialIndigo700">#303F9F</color>
+    <color name="PinkAccent200">#ff4081</color>
+    <color name="MaterialBlueGrey900">#263238</color>
+
+    <color name="AmitechBlue_Material_primary">#3F51B5</color>
+    <color name="AmitechBlue_Material_primary_dark">#303F9F</color>
+    <color name="AmitechBlue_Material_primary_light">#C5CAE9</color>
+    <color name="AmitechBlue_Material_accent">#03A9F4</color>
+    <color name="AmitechBlue_Material_primary_text">#212121</color>
+    <color name="AmitechBlue_Material_secondary_text">#757575</color>
+    <color name="AmitechBlue_Material_icons">#FFFFFF</color>
+    <color name="AmitechBlue_Material_divider">#BDBDBD</color>
+
+    <color name="AmitechPurple_Material_primary">#673AB7</color>
+    <color name="AmitechPurple_Material_primary_dark">#512DA8</color>
+    <color name="AmitechPurple_Material_primary_light">#D1C4E9</color>
+    <color name="AmitechPurple_Material_accent">#FF5722</color>
+    <color name="AmitechPurple_Material_primary_text">#212121</color>
+    <color name="AmitechPurple_Material_secondary_text">#757575</color>
+    <color name="AmitechPurple_Material_icons">#FFFFFF</color>
+    <color name="AmitechPurple_Material_divider">#BDBDBD</color>
+
+    <color name="AmitechEco_Material_primary">#4CAF50</color>
+    <color name="AmitechEco_Material_primary_dark">#388E3C</color>
+    <color name="AmitechEco_Material_primary_light">#C8E6C9</color>
+    <color name="AmitechEco_Material_accent">#CDDC39</color>
+    <color name="AmitechEco_Material_primary_text">#212121</color>
+    <color name="AmitechEco_Material_secondary_text">#757575</color>
+    <color name="AmitechEco_Material_icons">#FFFFFF</color>
+    <color name="AmitechEco_Material_divider">#BDBDBD</color>
+
+    <color name="AmitechDark_Material_primary">#212121</color>
+    <color name="AmitechDark_Material_primary_dark">#000000</color>
+    <color name="AmitechDark_Material_primary_light">#455a64</color>
+    <color name="AmitechDark_Material_accent">#00BCD4</color>
+    <color name="AmitechDark_Material_primary_text">#cfd8dc</color>
+    <color name="AmitechDark_Material_secondary_text">#a7ffeb</color>
+    <color name="AmitechDark_Material_icons">#FFFFFF</color>
+    <color name="AmitechDark_Material_divider">#BDBDBD</color>
+</resources>

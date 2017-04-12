@@ -1,0 +1,71 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:statusBarColor">@color/MaterialIndigo700</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@color/MaterialIndigo700</item>
+    </style>
+
+    <style name="AmitechEco" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/AmitechEco_Material_primary</item>
+        <item name="colorPrimaryDark">@color/AmitechEco_Material_primary_dark</item>
+        <item name="colorAccent">@color/AmitechEco_Material_accent</item>
+        <item name="android:statusBarColor">AmitechEco_Material_primary_dark</item>
+        <item name="android:textColorPrimary">@color/AmitechEco_Material_primary_text</item>
+        <item name="android:textColorSecondary">@color/AmitechEco_Material_secondary_text</item>
+        <item name="android:divider">@color/AmitechEco_Material_divider</item>
+        <item name="android:icon">@color/AmitechEco_Material_icons</item>
+    </style>
+
+    <style name="AmitechBlue" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/AmitechBlue_Material_primary</item>
+        <item name="colorPrimaryDark">@color/AmitechBlue_Material_primary_dark</item>
+        <item name="colorAccent">@color/AmitechBlue_Material_accent</item>
+        <item name="android:statusBarColor">AmitechBlue_Material_primary_dark</item>
+        <item name="android:textColorPrimary">@color/AmitechBlue_Material_primary_text</item>
+        <item name="android:textColorSecondary">@color/AmitechBlue_Material_secondary_text</item>
+        <item name="android:divider">@color/AmitechBlue_Material_divider</item>
+        <item name="android:icon">@color/AmitechBlue_Material_icons</item>
+    </style>
+
+    <style name="AmitechPurple" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/AmitechPurple_Material_primary</item>
+        <item name="colorPrimaryDark">@color/AmitechPurple_Material_primary_dark</item>
+        <item name="colorAccent">@color/AmitechPurple_Material_accent</item>
+        <item name="android:statusBarColor">AmitechPurple_Material_primary_dark</item>
+        <item name="android:textColorPrimary">@color/AmitechPurple_Material_primary_text</item>
+        <item name="android:textColorSecondary">@color/AmitechPurple_Material_secondary_text</item>
+        <item name="android:divider">@color/AmitechPurple_Material_divider</item>
+        <item name="android:icon">@color/AmitechPurple_Material_icons</item>
+    </style>
+
+    <style name="AmitechDark" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/AmitechDark_Material_primary</item>
+        <item name="colorPrimaryDark">@color/AmitechDark_Material_primary_dark</item>
+        <item name="colorAccent">@color/AmitechDark_Material_accent</item>
+        <item name="android:statusBarColor">AmitechDark_Material_primary_dark</item>
+        <item name="android:textColorPrimary">@color/AmitechDark_Material_primary_text</item>
+        <item name="android:textColorSecondary">@color/AmitechDark_Material_secondary_text</item>
+        <item name="android:divider">@color/AmitechDark_Material_divider</item>
+        <item name="android:icon">@color/AmitechDark_Material_icons</item>
+    </style>
+
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

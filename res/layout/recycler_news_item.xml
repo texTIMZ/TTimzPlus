@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="4dp"
+    android:background="#eeeeee"
+    android:elevation="4dp"
+    android:padding="4dp">
+
+    <ImageView
+        android:id="@+id/recycler_news_image"
+        android:layout_width="140dp"
+        android:layout_height="120dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="#FFF"
+        android:scaleType="centerCrop"
+        android:src="@drawable/news_placeholder" />
+
+    <TextView
+        android:id="@+id/recycler_news_headline"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/recycler_news_image"
+        android:layout_toEndOf="@+id/recycler_news_image"
+        android:padding="8dp"
+        android:paddingTop="2dp"
+        android:text="The News Headline goes here"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/recycler_news_publish_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/recycler_news_image"
+        android:layout_alignParentEnd="true"
+        android:background="@color/colorPrimary"
+        android:padding="8dp"
+        android:paddingBottom="2dp"
+        android:text="5 Days Ago"
+        android:textColor="#FFF"
+        android:textStyle="bold" />
+</RelativeLayout>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TexTimzPlus</string>
+
+    <string name="facebook_app_id">223425488132304</string>
+
+    <string name="auth_failed">Your Google Account Authentication has failed!</string>
+
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_news">News</string>
+    <string name="title_activity_events">Events</string>
+
+    <string name="my_actionbar_settings">Settings</string>
+    <string name="my_actionbar_notifications">Notifications</string>
+    <string name="my_actionbar_rate">Rate the App</string>
+
+    <string name="title_activity_more">More</string>
+    <string name="title_activity_nav_draw_def">NavDrawDef</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">welcome to my nav drawer fragment</string>
+    <string name="loading">Please wait while we finish loading the news…</string>
+
+    <!-- Navigation Drawer Text Items -->
+    <string name="user_name">Aditya Mishra</string>
+    <string name="user_email">aditya.mishra@dyanmix.co.in</string>
+</resources>
